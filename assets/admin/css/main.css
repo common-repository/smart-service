@@ -1,0 +1,19 @@
+.smart-service {
+	display: block;
+	width: 30%;
+	font-size: 16px;
+	padding: 8px 10px;
+}
+
+.smart-scode input[type="text"] {
+	font-size: 16px;
+	padding: 8px 10px;
+	width: 30%;
+}
+
+.smart {
+	margin: 10px 20px 0 2px;
+	background: #ffffff;
+	padding: 0 12px 12px;
+	box-shadow: 1px 1px 11px rgba(0, 0, 0, 0.5);
+}
